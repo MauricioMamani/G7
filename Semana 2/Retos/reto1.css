@@ -1,0 +1,42 @@
+form {
+  border: 1px solid #ccc;
+  padding: 10px;
+  width: 300px;
+}
+
+#titulo1 {
+  color: dimgrey;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+#titulo2 {
+  color: grey;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+}
+
+.inputEstilo {
+  display: block;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  margin: 10px auto;
+  padding: 10px;
+  width: 200px;
+}
+
+.inputsubmit {
+  background-color: limegreen;
+  border: none;
+  display: block;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 16px;
+  margin: 5px auto;
+  padding: 10px 50px;
+}
